@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sorting-hat/static/css/main.61d89996.css",
-    "main.js": "/sorting-hat/static/js/main.b1683a13.js",
+    "main.js": "/sorting-hat/static/js/main.21edf463.js",
     "static/js/787.d483a34c.chunk.js": "/sorting-hat/static/js/787.d483a34c.chunk.js",
     "static/media/sorting-hat.png": "/sorting-hat/static/media/sorting-hat.165fd939ce0bca28ab4c.png",
     "index.html": "/sorting-hat/index.html",
     "main.61d89996.css.map": "/sorting-hat/static/css/main.61d89996.css.map",
-    "main.b1683a13.js.map": "/sorting-hat/static/js/main.b1683a13.js.map",
+    "main.21edf463.js.map": "/sorting-hat/static/js/main.21edf463.js.map",
     "787.d483a34c.chunk.js.map": "/sorting-hat/static/js/787.d483a34c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61d89996.css",
-    "static/js/main.b1683a13.js"
+    "static/js/main.21edf463.js"
   ]
 }
