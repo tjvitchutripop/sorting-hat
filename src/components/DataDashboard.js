@@ -40,7 +40,7 @@ function DataDashboard(props){
         list.push(person_queue.dequeue())
         list.push(person_queue.dequeue())
         return (<div>
-            <Tooltip title={list[0].availability+" school(s)"} followCursor={true}><p style={{display:"inline-block",cursor:"pointer"}}>{list[0].name}</p></Tooltip>&nbsp;
+            <Tooltip title={list[0].availability+" school(s)"} followCursor={true}><p style={{display:"inline-block",cursor:"pointer"}}>{list[0].name}</p></Tooltip>,&nbsp;
              <Tooltip title={list[1].availability+" school(s)"} followCursor={true}><p style={{display:"inline-block",cursor:"pointer"}}>{list[1].name}</p></Tooltip>,&nbsp; 
             <Tooltip title={list[2].availability+" school(s)"} followCursor={true}><p style={{display:"inline-block",cursor:"pointer"}}>{list[2].name}</p></Tooltip>,&nbsp; 
             <Tooltip title={list[3].availability+" school(s)"} followCursor={true}><p style={{display:"inline-block",cursor:"pointer"}}>{list[3].name}</p></Tooltip>,&nbsp; 
